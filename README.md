@@ -29,7 +29,7 @@ Backend: Node.js, Express.js, SQL
 The user fills in the form with the infromation about the item they want to sell.
 
 
-### [Update Items]
+### Update Items
 
 The user updates informatio about the item in a catalog.
 
