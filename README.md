@@ -1,8 +1,8 @@
-# [your app name here]
+# [CampusCart]
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [your names here]
+Designed and developed by: [Kidus Seyoum, Tetiana Perehinets]
 
 🔗 Link to deployed app:
 
@@ -10,37 +10,35 @@ Designed and developed by: [your names here]
 
 ### Description and Purpose
 
-[text goes here]
+This app provides a platform for college students to sell their used items and purchase from fellow students.
 
 ### Inspiration
 
-[text goes here]
+As college students, we'd appreciate having a platform where we can trade and sell our used items. It would be a great way to access essential items at more affordable prices.
 
 ## Tech Stack
 
-Frontend:
+Frontend: React.js
 
-Backend:
+Backend: Node.js, Express.js, SQL
 
 ## Features
 
-### [Name of Feature 1]
+### [Post Items for Sell]
 
-[short description goes here]
+[The user fills in the form with the infromation about the item they want to sell.]
 
-[gif goes here]
 
-### [Name of Feature 2]
+### [Update Items]
 
-[short description goes here]
+[The user updates informatio about the item in a catalog.]
 
-[gif goes here]
 
-### [Name of Feature 3]
 
-[short description goes here]
+### [Item Purchase]
 
-[gif goes here]
+[The user purchases and item for a certain price and this item is removed from the catalog.]
+
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
 
