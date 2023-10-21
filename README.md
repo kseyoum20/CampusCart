@@ -1,8 +1,8 @@
-# [CampusCart]
+# CampusCart
 
 CodePath WEB103 Final Project
 
-Designed and developed by: [Kidus Seyoum, Tetiana Perehinets]
+Designed and developed by: Kidus Seyoum, Tetiana Perehinets
 
 🔗 Link to deployed app:
 
@@ -24,20 +24,18 @@ Backend: Node.js, Express.js, SQL
 
 ## Features
 
-### [Post Items for Sell]
+### Post Items for Sell
 
-[The user fills in the form with the infromation about the item they want to sell.]
+The user fills in the form with the infromation about the item they want to sell.
 
 
 ### [Update Items]
 
-[The user updates informatio about the item in a catalog.]
+The user updates informatio about the item in a catalog.
 
+### Item Purchase
 
-
-### [Item Purchase]
-
-[The user purchases and item for a certain price and this item is removed from the catalog.]
+The user purchases and item for a certain price and this item is removed from the catalog.
 
 
 ### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
