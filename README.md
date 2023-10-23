@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Kidus Seyoum, Tetiana Perehinets
+Designed and developed by: Kidus Seyoum, Tetiana Perehinets, and Sai Sumanth
 
 🔗 Link to deployed app:
 
