@@ -4,11 +4,17 @@ Reference the Creating an Entity Relationship Diagram final project guide in the
 
 ## List of Pages
 
-[👉🏾👉🏾👉🏾 List the pages you expect to have in your app, with a ⭐ next to pages you have wireframed]
+⭐ Home: shows products bought, sold, and requested
+⭐ Product posting page(for sale)
+⭐ Buying products page
+⭐ Product detail page
+Error page
+Student(seller) profile
 
-## Wireframe 1: [page title]
+## Wireframe 1: Home:
 
-[👉🏾👉🏾👉🏾 include wireframe 1]
+<img width="799" alt="image" src="https://github.com/kseyoum20/CampusCart/assets/120141948/f3a21c31-7991-4258-a9f0-1405a63c9ad7">
+
 
 ## Wireframe 2: [page title]
 
