@@ -2,7 +2,7 @@
 
 CodePath WEB103 Final Project
 
-Designed and developed by: Kidus Seyoum, Tetiana Perehinets, and Sai Sumanth
+Designed and developed by: Kidus Seyoum
 
 🔗 Link to deployed app:
 
@@ -37,9 +37,9 @@ The user updates informatio about the item in a catalog.
 
 The user purchases and item for a certain price and this item is removed from the catalog.
 
-
-### [ADDITIONAL FEATURES GO HERE - ADD ALL FEATURES HERE IN THE FORMAT ABOVE; you will check these off and add gifs as you complete them]
+[x] search feature
+[x] multiple search fields for different attributes
 
 ## Installation Instructions
 
-[instructions go here]
+clone -> do an npm install in client -> do an npm install pg, npm install cor, npm install express, -> do an npm run start in server and an npm run build then npm run dev in client side.
